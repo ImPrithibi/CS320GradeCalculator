@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grades Calculator</title>
+</head>
+<body>
+    <h1>Grades Calculator</h1>
+    <form method="post" action="/grades/">
+        <label for="test1">Enter your Test 1 Score as a decimal (e.g. .75 for 75% or 1.03 for 103%):</label>
+        <input type="text" id="test1" name="test1" required>
+        <br>
+        <label for="test2">Enter your Test 2 Score as a decimal:</label>
+        <input type="text" id="test2" name="test2" required>
+        <br>
+        <input type="submit" value="Calculate">
+    </form>
+</body>
+</html>
