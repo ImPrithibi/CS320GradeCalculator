@@ -3,6 +3,7 @@
 # Grades Calculator
 
 This is a simple web application that helps users calculate the final score needed to achieve different letter grades based on their test scores.
+🔗http://afk.ac/grades
 
 ## Features
 
