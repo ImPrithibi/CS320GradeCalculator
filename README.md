@@ -24,4 +24,4 @@ This is a simple web application that helps users calculate the final score need
 3. Run the Flask app (`python grades_app.py`).
 4. Access the app in your web browser.
 
-Feel free to contribute, report issues, or customize it for your specific needs!
+Feel free to contribute, report issues, or customize it for your specific needs. Hope it helps out!
